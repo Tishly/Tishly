@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tishly
+- 👋 Hi there, I’m @Tishly
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Frontend engineering
-- 💞️ I’m looking to collaborate on HTML, CSS and JavaScript learning projects and bootcamps
-- 📫 Reach me at tishlybakes18@gmail.com
+- 🌱 I’m currently learning software engineering with ALX/Holberton
+- 💞️ I’m looking to collaborate on C language projects and bootcamps for learning
+- 📫 Reach me at ekaetteessien27@gmail.com
 
 <!---
 Tishly/Tishly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
