@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="65" height="65" /> Hello, I’m Ekaette Essien, but you can call me Eka. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="20" height="20"/></h1>
 
-<center><h2>I'm growing my skills to be a DevOps engineer!</h2><center>
+<center><h2>I'm growing my skills to be a DevOps engineer!</h2></center>
 
 <center><img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif"/></center>
 
