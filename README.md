@@ -6,13 +6,15 @@
 
 - 👀 I’m interested in **Cloud/DevOps**
 
-- 🌱 I’m currently building my portfolio
+- 🌱 I’m currently building my portfolio using ChatGPT
 
-- 💞️ I’m looking to collaborate on **Python-based projects**
+- 💬 Ask me about **Linux, Docker, and the Cloud.**
+
+- 💞️ I’m looking to collaborate on **open-source projects**
 
 - 📫 Reach me at **ekaetteessien27@gmail.com**
 
-- Fun fact: **I exist** 
+- ⚡ Fun fact: **I exist** 
 
 <br>
 <h3 align="left">Connect with me:</h3>
